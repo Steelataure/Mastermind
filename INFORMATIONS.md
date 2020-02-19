@@ -1,3 +1,7 @@
+Le projet du Mastermind
+
+
+
 
 Le Mastermind est un projet également réalisé avec Python et l'utilisation de Processing.
 C'est un jeu de déduction d'un code généré aléatoirement, le but est donc de retrouver le code coloré.
