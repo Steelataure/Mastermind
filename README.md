@@ -1,7 +1,7 @@
 
 
 
-=========  MASTERMIND ======== Alexandre Buisset et Wandrille Legras
+=========  MASTERMIND ======== Alexandre Buisset
 
 
 Le projet du Mastermind :
